@@ -1,6 +1,6 @@
-### An Automated Machine Learning Pipeline for Predicting Autism in Adults using EEG Data
+## An Automated Machine Learning Pipeline for Predicting Autism in Adults using EEG Data
 
-## Abstract
+### Abstract
 
 The current diagnosis of autism spectrum disorder (ASD) relies solely on behavioural observations, leaving room for subjectivity and misdiagnosis. Studies have begun to address this issue by predicting ASD from brain imaging data using machine learning. However, few have focused their efforts in adults. This study aimed to determine whether electroencephalography (EEG) data could be used to train machine learning models that could accurately classify ASD individuals from a cohort of Dutch adults performing two visual tasks. 
 
@@ -10,4 +10,7 @@ Tree-based learning algorithms obtained the highest performance, with the decisi
 
 Overall, this study provides strong evidence that ASD can be predicted with considerable accuracy in adults using EEG data. The paper also details a flexible and reproducible pipeline that can be used in future work for developing usable models.
 
+### Links
+
+Youtube Presentation: https://youtu.be/9gwXjvELstY
 ---
